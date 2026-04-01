@@ -1,0 +1,7 @@
+﻿bin/
+obj/
+*.log
+*.html
+ExtentReport/
+Screenshots/
+.vs/
